@@ -1,0 +1,13 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&amp;display=swap');
+    .text { font-family: 'Inter', sans-serif; font-weight: 700; letter-spacing: -5px; }
+  </style>
+
+  <!-- 배경: Clay (Squircle 형태) -->
+  <rect x="0" y="0" width="200" height="200" rx="40" fill="#D2886F"/>
+  
+  <!-- OS: Charcoal Color -->
+  <text x="50%" y="53%" class="text" dominant-baseline="middle" text-anchor="middle" 
+        font-size="90" fill="#1C1917">OS</text>
+</svg>

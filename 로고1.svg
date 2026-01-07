@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&amp;display=swap');
+    .text { font-family: 'Playfair Display', 'Times New Roman', serif; font-weight: 600; font-style: italic; }
+  </style>
+  
+  <!-- 배경: Charcoal -->
+  <circle cx="100" cy="100" r="100" fill="#1C1917"/>
+  
+  <!-- T: Sand Color -->
+  <text x="50%" y="55%" class="text" dominant-baseline="middle" text-anchor="middle" 
+        font-size="120" fill="#F5F5F0">T</text>
+        
+  <!-- Dot: Clay Color (포인트) -->
+  <circle cx="145" cy="55" r="12" fill="#D2886F"/>
+</svg>
